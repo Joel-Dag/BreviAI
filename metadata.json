@@ -1,0 +1,10 @@
+{
+  "name": "BreviAI",
+  "description": "AI-powered meeting notes, transcriptions, summaries, and action item extractor",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
